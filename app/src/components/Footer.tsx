@@ -162,6 +162,15 @@ export default function Footer() {
             <a href="#" className="font-inter text-xs text-neutral-400 hover:text-electric-blue transition-colors">
               Accessibilité
             </a>
+            <span className="text-neutral-600">|</span>
+            <a
+              href="https://www.beonweb.cm/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-inter text-xs text-neutral-400 hover:text-electric-blue transition-colors"
+            >
+              Conçu par Beonweb
+            </a>
           </div>
         </div>
       </div>
